@@ -1,4 +1,4 @@
-# aLearner_AI
+# Learner_AI
 
 <!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
 
