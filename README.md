@@ -6,9 +6,15 @@
 
 <!--rehype:style=text-align: center;-->
 
-一个帮助 K12 阶段学生实现自主学习（Self-regulated learning）的 AI 工具箱
+一个帮助 K12 学生实现自主学习（Self-regulated learning）的 AI 工具箱
 
 ## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [通用工具](#通用工具)
+    - [General](#general)
+    - [The Principles of ChatGPT](#the-principles-of-chatgpt)
+    - [Prompts](#prompts)
 
 ## 通用工具
 
