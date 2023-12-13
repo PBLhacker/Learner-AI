@@ -10,12 +10,6 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [通用工具](#通用工具)
-    - [General](#general)
-    - [The Principles of ChatGPT](#the-principles-of-chatgpt)
-    - [Prompts](#prompts)
-
 ## 通用工具
 
 ## 学科工具
