@@ -45,3 +45,6 @@
 - https://speechify.com/ Speechify 允許您毫不費力地將視頻中的音訊替換為另一種語言，以便您可以通過視頻吸引更多學生。
 - https://www.magicschool.ai/
 
+
+ref 
+- https://www.classpoint.io/blog/zh-hant/46-%e7%a8%ae%e6%9c%80%e4%bd%b3-chatgpt-%e6%9b%bf%e4%bb%a3%e5%93%81%ef%bc%88chatgpt-%e4%b8%8d%e6%98%af%e5%94%af%e4%b8%80%e7%9a%84%e6%95%99%e8%82%b2%e5%b7%a5%e5%85%b7%ef%bc%81
