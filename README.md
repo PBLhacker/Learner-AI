@@ -13,11 +13,12 @@
     - [General](#general)
     - [The Principles of ChatGPT](#the-principles-of-chatgpt)
     - [Prompts](#prompts)
+    - [MathGPT](#MathGPT)
 
-## Meta Resources
+## Meta-Resources
 - [Wikipedia ChatGPT](https://en.wikipedia.org/w/index.php?title=ChatGPT&oldid=1144021256)
 - [42share](https://42share.io/)
 
-## 学科工具
-
+## 数学工具
+- [MathGPT](https://www.mathgpt.com/)
 ## 语言工具
