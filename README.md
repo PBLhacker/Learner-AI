@@ -18,6 +18,7 @@
 - [formative](https://app.formative.com/) 通過各種 AI 生成的測驗來評估各個級別的學生。 還可以提供有針對性的即時反饋和見解，以提高學生的表現。
 - [edmentum](https://www.edmentum.com/) 为每个学生提供个性化的学习旅程。我们的数据驱动型解决方案可帮助 K-12 教育工作者根据独特的学习挑战（例如知识差距、概念掌握和学分恢复）为学生提供支持。
 - [khanmigo](https://www.khanacademy.org/khan-labs#khanmigo) 可汗学院出品。利用人工智能，我们可以为所有学生带来一对一辅导的好处——深入理解、自信、清晰和赋能。
+- [synthesis](https://www.synthesis.com/tutor) 适合7-11岁。
 
 ## 数学工具
 - [MathGPT](https://www.mathgpt.com/)
@@ -26,12 +27,14 @@
 - 
 ## 语言工具
 - [Hi Echo](https://hiecho.youdao.com/) Hi Echo是一个由网易有道推出的AI虚拟人口语私教，搭载了国内首个教育大模型“子曰”，提供随时随地的一对一口语练习，覆盖多个对话场景和话题，提供对话分数及完整对话报告。
-- [Duolinguo](https://www.duolingo.com/) 
+- [Duolinguo](https://www.duolingo.com/)
+- [ELSASpeak](https://elsaspeak.com/en/) 艾尔莎 
 
 ## 历史工具
 - [HelloHistory](https://www.hellohistory.ai/) 與天文學家、哲學家和科學家等歷史人物進行獨特的聊天體驗。
 
 ## 心理工具
+- [ROCKYAI](https://www.rocky.ai/) 建立成长心态。
 
 ## others
 - [Volley-Labs](http://volley.technology/) Volley Labs 是一款基于移动设备的个性化学习工具，主要针对的是高中以及大学生，通过自然语言处理和机器学习等技术，为知识点学习提供最为相关和切合的资料。在官网上可以看到产品的整个学习流程：学生可以通过手机摄像头，拍下自己的教科书或者课后作业，Volley Labs 会自动识别出页面中的知识点，在网络上获取相关的知识，以卡片的内容呈现，卡片可以是文章，图片，音频或者是视频等等。
@@ -40,4 +43,5 @@
 ## For-Teacher
 - https://www.lessonplans.ai/ 辅助教师启动任何年级的课程计划。
 - https://speechify.com/ Speechify 允許您毫不費力地將視頻中的音訊替換為另一種語言，以便您可以通過視頻吸引更多學生。
+- https://www.magicschool.ai/
 
