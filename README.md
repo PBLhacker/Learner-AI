@@ -17,13 +17,14 @@
 - [Cognii](https://cognii.com/) Cognii 创新的对话式教育技术，将对话式教学法的力量与对话式 AI 技术相结合。Cognii 虚拟学习助手通过提示学生构建答案、为他们提供即时形成性评估、通过个性化提示和技巧辅导他们以及引导他们掌握概念，让学生参与聊天机器人式的学习对话。
 - [formative](https://app.formative.com/) 通過各種 AI 生成的測驗來評估各個級別的學生。 還可以提供有針對性的即時反饋和見解，以提高學生的表現。
 - [edmentum](https://www.edmentum.com/) 为每个学生提供个性化的学习旅程。我们的数据驱动型解决方案可帮助 K-12 教育工作者根据独特的学习挑战（例如知识差距、概念掌握和学分恢复）为学生提供支持。
-- [khanmigo](https://www.khanacademy.org/khan-labs#khanmigo) 可汗学院出品。利用人工智能，我们可以为所有学生带来一对一辅导的好处——深入理解、自信、清晰和赋能。
+- [khanmigo](https://www.khanacademy.org/khan-labs#khanmigo) 可汗学院出品。基于ChatGPT，为所有学生带来一对一辅导的好处——深入理解、自信、清晰和赋能。
 - [synthesis](https://www.synthesis.com/tutor) 适合7-11岁。
 
 ## 数学工具
 - [MathGPT](https://www.mathgpt.com/)
 - [photomath](https://photomath.com/)
 - [WolframAlpha](https://www.wolframalpha.com/)
+- [MATHstream](https://www.carnegielearning.com/solutions/math/mathstream/)
 - 
 ## 语言工具
 - [Hi Echo](https://hiecho.youdao.com/) Hi Echo是一个由网易有道推出的AI虚拟人口语私教，搭载了国内首个教育大模型“子曰”，提供随时随地的一对一口语练习，覆盖多个对话场景和话题，提供对话分数及完整对话报告。
@@ -44,6 +45,7 @@
 - https://www.lessonplans.ai/ 辅助教师启动任何年级的课程计划。
 - https://speechify.com/ Speechify 允許您毫不費力地將視頻中的音訊替換為另一種語言，以便您可以通過視頻吸引更多學生。
 - https://www.magicschool.ai/
+- https://www.gradescope.com/ 评分评价
 
 
 ref 
