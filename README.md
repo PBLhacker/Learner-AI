@@ -9,7 +9,15 @@
 一个帮助 K12 学生实现自主学习（Self-regulated learning）的 AI 工具箱
 
 ## Table of Contents
+- [Meta Resources](#meta-resources)
+    - [General](#general)
+    - [The Principles of ChatGPT](#the-principles-of-chatgpt)
+    - [Prompts](#prompts)
 
-## 通用工具
+## Meta Resources
+- [Wikipedia ChatGPT](https://en.wikipedia.org/w/index.php?title=ChatGPT&oldid=1144021256)
+- [42share](https://42share.io/)
 
 ## 学科工具
+
+## 语言工具
